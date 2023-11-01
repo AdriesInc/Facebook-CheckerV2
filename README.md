@@ -40,7 +40,7 @@ pip install requests
 
 - Run `install.bat` and install the `modules`.
 - Add `proxy.txt` to check proxies, or add `acc.txt` for the accounts you want to check for validity.
-- Run `facebook-checker.py`
+- Run `facebook-checkerV2.py`
 
 ## Contributing
 
